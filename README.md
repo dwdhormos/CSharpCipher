@@ -8,7 +8,7 @@ A windows forms mini app for encriping and decripting messages using the Caesar 
  
 ### Plugins
 
-Dillinger is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
+CSharpCipher is currently extended with the following plugins. Instructions on how to use them in your own application are linked below.
 
 | Plugin | README |
 | ------ | ------ |
